@@ -11,8 +11,7 @@
 
 [rewrite_local]
 
-^http[s]?:\/\/yw.jiaofei8.cn\/api\/user\/my url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/1jiaofei8.js
-
+^http[s]?:\/\/yw.jiaofei8.cn\/api\/user\/my url script-response-body https://raw.githubusercontent.com/guchen7/QX-/refs/heads/main/1jiaofei8.js
 [mitm] 
 
 hostname = yw.jiaofei8.cn
