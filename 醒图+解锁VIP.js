@@ -13,7 +13,7 @@ TG反馈群：https://t.me/jmcj2
 
 [rewrite_local]
 
-^https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/xt.js
+^https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription url script-response-body https://raw.githubusercontent.com/guchen7/QX-/refs/heads/main/%E9%86%92%E5%9B%BE%2B%E8%A7%A3%E9%94%81VIP.js
 
 [mitm] 
 hostname = commerce-api.faceu.mobi
